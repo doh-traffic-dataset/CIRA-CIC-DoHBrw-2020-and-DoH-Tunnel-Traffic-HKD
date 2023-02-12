@@ -5,22 +5,26 @@
 
 * The "l2-total-add.csv" includes traffic flows of Normal DoH 19807 and Suspicious DoH 354996.
 
-* The "l3-total-add.csv" has traffic flows of dns2tcp 167486, dnscat2 35770, iodine 46580, dnstt 46080, tcp-over-dns 30040, and tuns 29040.
- 
-* If you use the dataset, please be sure to cite previous studies for both datasets in your paper.
+* The "l3-total-add.csv" encloses traffic flows of dns2tcp 167486, dnscat2 35770, iodine 46580, dnstt 46080, tcp-over-dns 30040, and tuns 29040.
 
-* Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, 
-"Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis,"
-*in IEEE Transactions on Network and Service Management*, 2022. https://ieeexplore.ieee.org/document/9924534
+* Note that the "l1-total-add.csv" is currently too large to open in Microsoft Excel.
+  Use a text editor such as Vim to view its contents.
+
+# License
+
+* The dataset has data from the CIRA-CIC-DoHBrw-2020 [1] and DoH-Tunnel-Traffic-HKD [2] datasets.
+
+* If you use the dataset, please be sure to cite previous studies for both datasets in your paper.
 
 * Mohammadreza MontazeriShatoori, Logan Davidson, Gurdip Kaur, and Arash Habibi Lashkari, 
 "Detection of DoH Tunnels using Time-series Classification of Encrypted Traffic," 
 *The 5th IEEE Cyber Science and Technology Congress*, Calgary, Canada, August 2020. https://ieeexplore.ieee.org/document/9251211
 
-* Note that the "l1-total-add.csv" is currently too large to open in Microsoft Excel.
-  Use a text editor such as Vim to view its contents.
+* Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, 
+"Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis,"
+*in IEEE Transactions on Network and Service Management*, 2022. https://ieeexplore.ieee.org/document/9924534
 
-* More information for each dataset is available on the following websites. 
-    1. https://www.unb.ca/cic/datasets/dohbrw-2020.html (CIRA-CIC-DoHBrw-2020)
-    2. https://github.com/doh-trafficdataset/DoH-Tunnel-Traffic-HKD (DoH-Tunnel-Traffic-HKD)
+# References
 
+* [1] CIRA-CIC-DoHBrw-2020 (https://www.unb.ca/cic/datasets/dohbrw-2020.html)
+* [2] DoH-Tunnel-Traffic-HKD (https://github.com/doh-traffic-dataset/DoH-Tunnel-Traffic-HKD)
