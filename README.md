@@ -16,7 +16,7 @@
 
 * The dataset has data from the CIRA-CIC-DoHBrw-2020 [1] and DoH-Tunnel-Traffic-HKD [2] datasets.
 
-* If you use the dataset, please be sure to cite the both following papers in your paper.
+* If you use the dataset, please be sure to cite both following papers in your paper.
 
 * Mohammadreza MontazeriShatoori, Logan Davidson, Gurdip Kaur, and Arash Habibi Lashkari, 
 "Detection of DoH Tunnels using Time-series Classification of Encrypted Traffic," 
