@@ -13,17 +13,14 @@
 "Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis,"
 *in IEEE Transactions on Network and Service Management*, 2022. https://ieeexplore.ieee.org/document/9924534
 
-
-* Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, "Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis," in IEEE Transactions on Network and Service Management, 2022.
-https://ieeexplore.ieee.org/document/9924534
-
-    1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020)  
-    2. https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
+* Mohammadreza MontazeriShatoori, Logan Davidson, Gurdip Kaur, and Arash Habibi Lashkari, 
+"Detection of DoH Tunnels using Time-series Classification of Encrypted Traffic," 
+*The 5th IEEE Cyber Science and Technology Congress*, Calgary, Canada, August 2020. https://ieeexplore.ieee.org/document/9251211
 
 * Note that the "l1-total-add.csv" is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
 
 * More information for each dataset is available on the following websites. 
-    https://www.unb.ca/cic/datasets/dohbrw-2020.html
-    https://github.com/doh-trafficdataset/DoH-Tunnel-Traffic-HKD
+    1. https://www.unb.ca/cic/datasets/dohbrw-2020.html (CIRA-CIC-DoHBrw-2020)
+    2. https://github.com/doh-trafficdataset/DoH-Tunnel-Traffic-HKD (DoH-Tunnel-Traffic-HKD)
 
