@@ -11,8 +11,7 @@
 
 * Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, 
 "Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis,"
-*in IEEE Transactions on Network and Service Management*, 2022.<br>
-https://ieeexplore.ieee.org/document/9924534
+*in IEEE Transactions on Network and Service Management*, 2022. https://ieeexplore.ieee.org/document/9924534
 
 
 * Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, "Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis," in IEEE Transactions on Network and Service Management, 2022.
