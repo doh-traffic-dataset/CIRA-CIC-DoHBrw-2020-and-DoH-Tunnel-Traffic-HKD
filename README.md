@@ -1,6 +1,8 @@
 
 # The CIRA-CIC-DoHBrw-2020 and DoH-Tunnel-Traffic-HKD combined dataset
 
+* The dataset (CIRA-CIC-DoHBrw-2020-and-DoH-Tunnel-Traffic-HKD.zip) is available on the Hokkaido University website - https://eprints.lib.hokudai.ac.jp/dspace/handle/xxxx/xxxx.
+
 * The "l1-total-add.csv" contains traffic flows of Non-DoH 897493 and DoH 374803.
 
 * The "l2-total-add.csv" includes traffic flows of Normal DoH 19807 and Suspicious DoH 354996.
