@@ -29,4 +29,4 @@
 # References
 
 * [1] CIRA-CIC-DoHBrw-2020 (https://www.unb.ca/cic/datasets/dohbrw-2020.html)
-* [2] DoH-Tunnel-Traffic-HKD (https://github.com/doh-traffic-dataset/DoH-Tunnel-Traffic-HKD)
+* [2] DoH-Tunnel-Traffic-HKD (https://github.com/doh-traffic-dataset/DoH-Tunnel-Traffic-HKD/)
